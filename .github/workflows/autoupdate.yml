@@ -14,3 +14,4 @@ jobs:
             PR_FILTER: 'labelled'
             PR_LABELS: 'to_be_released'
             MERGE_MSG: 'Auto-update after release from master'
+            MERGE_CONFLICT_ACTION: 'ignore'
